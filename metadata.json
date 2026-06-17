@@ -1,0 +1,10 @@
+{
+  "name": "Teachable Machine 8-Bit Platformer",
+  "description": "An 8-bit browser-based runner game controlled via keyboard or trained Teachable Machine visual postures (Jump and Crouch) utilizing your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
